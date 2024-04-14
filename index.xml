@@ -12,9 +12,8 @@
         <pubDate>Fri, 12 Apr 2024 00:09:08 +0800</pubDate>
         
         <guid>https://ghosttown522.github.io/posts/hello-hugo/</guid>
-        <description> # test hello world # Paragraph 哈囉哈囉:see_no_evil:
-# Blockquotes 引言
-# 這是一個小標題 </description>
+        <description># test hello world # Paragraph 哈囉哈囉:see_no_evil:
+# Blockquotes 引言</description>
         </item>
         <item>
         <title>Archives</title>
@@ -67,6 +66,17 @@
         <description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
 https://github.com/yuin/goldmark https://github.</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://ghosttown522.github.io/posts/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://ghosttown522.github.io/posts/test/</guid>
+        <description>Hello world 嘿嘿嘿
+# 這是標題 # H2 title 這是粗體
+引用
+超連結</description>
         </item>
         <item>
         <title>Links</title>
