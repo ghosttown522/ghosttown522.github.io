@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ghosttown522.github.io/page/about/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ghosttown522.github.io/</loc>
-    <lastmod>2024-04-12T01:41:43+08:00</lastmod>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghosttown522.github.io/page/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ghosttown522.github.io/posts/</loc>
     <lastmod>2024-04-12T01:41:43+08:00</lastmod>
@@ -13,9 +19,6 @@
   </url><url>
     <loc>https://ghosttown522.github.io/page/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghosttown522.github.io/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ghosttown522.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -73,9 +76,6 @@
   </url><url>
     <loc>https://ghosttown522.github.io/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghosttown522.github.io/page/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ghosttown522.github.io/posts/test/</loc>
   </url><url>

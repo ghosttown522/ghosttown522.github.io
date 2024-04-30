@@ -6,7 +6,17 @@
         <description>Recent content on My Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 12 Apr 2024 01:41:43 +0800</lastBuildDate><atom:link href="https://ghosttown522.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ghosttown522.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://ghosttown522.github.io/page/about/</link>
+        <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://ghosttown522.github.io/page/about/</guid>
+        <description>Nothing you can make that can&amp;rsquo;t be made. No one you can save that can&amp;rsquo;t be saved. Nothing you can do but you can learn how to be you in time. It&amp;rsquo;s easy.
+哈囉 123
+你好</description>
+        </item>
+        <item>
         <title>Hello world</title>
         <link>https://ghosttown522.github.io/posts/hello-hugo/</link>
         <pubDate>Fri, 12 Apr 2024 00:09:08 +0800</pubDate>
@@ -56,16 +66,6 @@
         
         <guid>https://ghosttown522.github.io/posts/emoji-support/</guid>
         <description>&lt;img src="https://ghosttown522.github.io/posts/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>https://ghosttown522.github.io/page/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ghosttown522.github.io/page/about/</guid>
-        <description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
         </item>
         <item>
         <title></title>
